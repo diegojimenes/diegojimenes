@@ -1,4 +1,3 @@
-## Diego jimenes <img align="center" alt="Rafa-yoda" height="60" width="80" src="https://i.pinimg.com/originals/86/ef/00/86ef00eec1bff3e4576be68d690071a6.gif">
 <a href="https://github.com/diegojimenes">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=diegojimenes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diegojimenes&layout=compact&langs_count=8&theme=dracula"/>
